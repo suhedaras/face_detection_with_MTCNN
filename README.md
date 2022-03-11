@@ -25,7 +25,7 @@
 python mtcnn.py
 ```
 
-**Run this command to generate dataset using detected face landmarks(4 different folders: left eye, right eye, face and mouth). Generated dataset is saved in the results folder**
+**Run this command to generate dataset using detected face landmarks(4 different folders: left eye, right eye, face and mouth). Generated dataset is saved in the result folder**
 
 ```
 python create_dataset.py
